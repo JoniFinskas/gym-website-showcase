@@ -4,6 +4,8 @@ A responsive website for a fictional gym, with complete English and Greek interf
 
 **[View the live demo →](https://gym-demo-8es.pages.dev/)**
 
+![Gym website homepage](images/hero-desktop.webp)
+
 ## About the project
 
 This project demonstrates a complete gym website experience across mobile, tablet and desktop. It brings together the information a prospective member needs, from available classes and membership options to common questions and contact details.
